@@ -1,0 +1,8 @@
+{
+  "/auth/login": "/users?email=:email&password=:password",
+  "/auth/register": "/users",
+  "/projects": "/projects",
+  "/projects/:id": "/projects/:id",
+  "/projects/:id/tasks": "/tasks?project_id=:id",
+  "/tasks/:id": "/tasks/:id"
+}
