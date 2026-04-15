@@ -1,0 +1,10 @@
+# Ignore nested node_modules
+/taskflow/node_modules
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+*.log
